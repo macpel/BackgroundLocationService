@@ -2,7 +2,7 @@
 //  LocationService.swift
 //
 //  Created by MPELLUS on 1/11/16.
-//  Copyright © 2016 meetme. All rights reserved.
+//  Copyright © 2016. All rights reserved.
 //
 
 import UIKit

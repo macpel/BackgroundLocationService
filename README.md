@@ -1,2 +1,2 @@
 # BackgroundLocationService
-Background location service
+Background location service in swift, can keep reporting every x seconds the user location
